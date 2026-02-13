@@ -10,6 +10,7 @@ _Learn about the person you're helping. Update this as you go._
   - 偏好系统与应用区分管理
   - 强调新建 App 必须归档到专属程序文档
   - 追求井然有序、整洁的工作区结构
+  - 强调“系统安全优先”：任何操作不得破坏系统，优先守护本地安全与稳定
 
 ## Context
 
