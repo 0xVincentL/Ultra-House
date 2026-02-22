@@ -1,0 +1,7 @@
+{
+  "task_name": "search-1771758322",
+  "prompt": "Find any NEW on-chain meme tokens in last 30 minutes with strong momentum. Require at least two signals among volume/txn spike, holder/wallet growth, liquidity inflow, multi-platform mention (DexScreener+GMGN+X), smart money tracking. Return token name, symbol, chain, contract address, evidence links. Focus SOL/ETH/Base.",
+  "output": "/tmp/onchain-alpha.md",
+  "started_at": "2026-02-22T19:05:22+08:00",
+  "status": "running"
+}
